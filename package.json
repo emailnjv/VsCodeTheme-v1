@@ -1,0 +1,21 @@
+{
+    "name": "nick-v0-0-1",
+    "displayName": "nick-v0.0.1",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "custom-1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/custom-1-color-theme.json"
+            }
+        ]
+    }
+}
